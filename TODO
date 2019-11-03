@@ -1,0 +1,6 @@
+// Cell States
+#define CELL_EMPTY 0
+#define CELL_HEALTHY 1
+#define CELL_INFECTED 2
+#define CELL_DEAD 3
+#define CELL_INVULNERABLE 4
