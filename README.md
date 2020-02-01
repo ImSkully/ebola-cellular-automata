@@ -1,4 +1,8 @@
 # Cellular Automata Simulating Ebola
+![License](https://img.shields.io/github/license/ImSkully/ebola-cellular-automata)
+![Repo Size](https://img.shields.io/github/languages/code-size/ImSkully/ebola-cellular-automata)
+![Version](https://img.shields.io/github/v/tag/imskully/ebola-cellular-automata)
+
 The simulation of the spread of the Ebola virus in a Cellular Automata made using C. Working program has functionality in both a serial and parallel computing environment, along with a visualization web application built with PHP.
 
 ## Usage
